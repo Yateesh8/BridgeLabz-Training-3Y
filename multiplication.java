@@ -1,5 +1,3 @@
-package operators;
-
 import java.util.Scanner;
 
 public class multiplication {
@@ -20,3 +18,4 @@ public class multiplication {
         System.out.println(c);
     }
 }
+

@@ -1,4 +1,3 @@
-package operators;
 import java.util.Scanner;
 
 public class subtraction {
@@ -19,3 +18,4 @@ public class subtraction {
         System.out.println(c);
     }
 }
+

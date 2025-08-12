@@ -1,5 +1,3 @@
-package operators;
-
 import java.util.Scanner;
 
 public class add {
@@ -20,3 +18,4 @@ public class add {
         System.out.println(c);
     }
 }
+

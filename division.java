@@ -1,4 +1,3 @@
-package operators;
 import java.util.Scanner;
 
 public class division {
@@ -19,3 +18,4 @@ public class division {
         System.out.println(c);
     }
 }
+

@@ -104,7 +104,7 @@ Practice programs and coding exercises to strengthen problem solving.
 **Yateesh Gangwar**
 
 Aspiring Software Developer  
-Java | DSA | Backend Development
+Java | DSA | Full Stack Web Development
 
 ---
 

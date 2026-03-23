@@ -153,7 +153,7 @@ If you find this repository useful:
 
 <div align="center">
 
-👨‍💻 **Yateesh Gangwar**
+👨‍💻 **Yateesh Gangwar,**
 Aspiring Software Developer — Java · DSA · Full Stack Web Development
 
 </div>
